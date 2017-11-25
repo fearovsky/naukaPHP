@@ -7,6 +7,7 @@
 <body>
 
 <?php
+// Tablice, sortowanie, pętla foreach
 echo "<h2>Tablice, sortowanie na pętli foreach:</h2>";
 
 echo "Wynik tablic: </br>";
@@ -29,6 +30,12 @@ echo("<br>Tablica posortowana malejąco: <br>");
 foreach ($tablica as $jedna){
 	echo $jedna.' ';
 }
+
+
+
+// Tablice, sortowanie, pętla for
+
+
 
 echo "<h2>Tablice, sortowanie na pętli for:</h2>";
 echo "Wynik tablic: <br>";
