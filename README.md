@@ -1,1 +1,1 @@
-# naukaPHP
+# Praktyczne przykłady wykorzystania PHP.
